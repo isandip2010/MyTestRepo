@@ -11,6 +11,7 @@ namespace ConsoleApp1
             // Replace the URL with the actual endpoint you want to call
             string apiUrl = "https://www.google.com/";
 
+            //new comment 1
             // Create an instance of HttpClient
             using (HttpClient httpClient = new HttpClient())
             {
